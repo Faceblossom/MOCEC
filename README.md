@@ -1,2 +1,2 @@
 # MOCEC
-The code of MOCEC
+MOCEC - Code
